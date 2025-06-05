@@ -88,10 +88,4 @@ Repository for my latest resume in various formats.
 
 ---
 
-### <a href="https://github.com/nityanand22/nityanand22" target="_blank">nityanand22 (Profile Config)</a>  
-This repository contains my GitHub profile configuration files and info.  
-🔗 [GitHub Repo](https://github.com/nityanand22/nityanand22)
-
----
-
 <!-- Add more projects as you build and deploy! -->
