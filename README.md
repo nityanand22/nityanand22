@@ -54,7 +54,8 @@ A simple YouTube clone and general-purpose web project.
 ![TypeScript](https://img.shields.io/badge/TypeScript-lightblue?logo=typescript&logoColor=3178C6)
 
 Task management app built with TypeScript for efficient productivity.  
-🔗 [Live Demo](https://eclypse-task.vercel.app) &nbsp;|&nbsp; [GitHub Repo](https://github.com/nityanand22/Eclypse-Task)
+🔗 [Live Demo](https://eclypse-task-8obv.vercel.app
+) &nbsp;|&nbsp; [GitHub Repo](https://github.com/nityanand22/Eclypse-Task)
 
 ---
 
