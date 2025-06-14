@@ -22,7 +22,7 @@ I'm a passionate Frontend Developer with a strong foundation in building respons
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=F7DF1E)
 
 A comprehensive fullstack MERN project showing end-to-end features and deployment.  
-🔗 [Live Demo](https://forever-backend-theta-olive.vercel.app) &nbsp;|&nbsp; [GitHub Repo](https://github.com/nityanand22/Forever_Fullstack)
+🔗 [Live Demo](https://forever-frontend-rosy-two.vercel.app/) &nbsp;|&nbsp; [GitHub Repo](https://github.com/nityanand22/Forever_Fullstack)
 
 ---
 
